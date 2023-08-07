@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "350085393964",
+    "project_id": "charcha-app-aa336",
+    "storage_bucket": "charcha-app-aa336.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350085393964:android:7f3b01b365261da463eb89",
+        "android_client_info": {
+          "package_name": "com.example.videocallingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350085393964-abhqh7is9q8pt03p87ckv53ofjmjk7d0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUhfrLbxvZjoC9yAw2tfyX5TjRH_zbszY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350085393964-abhqh7is9q8pt03p87ckv53ofjmjk7d0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
